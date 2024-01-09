@@ -1,5 +1,8 @@
-# Hello 👋 
-## I'm Jocelyn, a front-end developer based in Sydney, Australia.
+<p><strong style="font-size: larger">Hello</strong> 👋</p>
+<p><strong style="font-size: larger">I'm Jocelyn, a front-end developer based in Sydney, Australia.</strong></p>
+
+---
+
 * 🛠 Tools & Methodologies: ReactJS | VueJS | TypeScript | styled-components | NodeJS.
 * 🌱 I’m currently learning JavaScript Algorithms and Data Structures.
 * 🌟 Open for a new job
