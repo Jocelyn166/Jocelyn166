@@ -1,3 +1,10 @@
-Hello! My name is Jocelyn Wang👋 
+# Hello 👋 
+## I'm Jocelyn, a front-end developer based in Sydney, Australia.
+---
+* 🛠 Tools & Methodologies: ReactJS | VueJS | TypeScript | styled-components | NodeJS.
+* 🌱 I’m currently learning JavaScript Algorithms and Data Structures.
+* 🌟 Open for a new job
 
-A dedicated front-end web developer with experience developing responsive and high-performance web applications from concept to launch. Proficient in HTML, CSS, JavaScript, React, Vue and skilled in creating reusable components. Comfortable working in Agile environments, collaborates effectively in cross-functional teams, and stays informed about industry trends to enhance web experiences. Eager to contribute expertise to innovative projects and contribute to their success.
+Feel free to connect or reach out for any collaboration opportunity 😉
+
+
