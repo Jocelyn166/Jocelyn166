@@ -7,7 +7,7 @@
 * 🌱 I’m currently learning JavaScript Algorithms and Data Structures.
 * 🌟 Open for a new job
 * 🌐 View My Website
-   <p><a href="<https://jocelynblog.netlify.app>" target="_blank">Visit my website</a></p>
+   <p><a href="https://jocelynblog.netlify.app" target="_blank">Redux Blog</a></p>
 
 Feel free to connect or reach out for any collaboration opportunity 😉
 
