@@ -10,7 +10,7 @@
 </ul>
 
 <p><strong style="font-size: larger">🌐 View My Websites</strong></p>
-<p><a href="https://monica-clearning-services.onrender.com" target="_blank">Monica Cleaning Service</a> - A business website built MERN (MongoDB, Express, React, Node.js)</p>
+<p><a href="https://monica-clearning-services.onrender.com" target="_blank">Monica Cleaning Service</a> - A business website built with the **MERN** stack (MongoDB, Express, React, Node.js)</p>
 
 To log in with different roles:
 
