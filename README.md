@@ -4,8 +4,8 @@
 <hr>
 
 <ul>
-  <li>🛠 Tools & Methodologies: ReactJS | VueJS | TypeScript | styled-components | NodeJS.</li>
-  <li>🌱 I’m currently learning JavaScript Algorithms and Data Structures.</li>
+  <li>🛠 Tools & Methodologies: ReactJS | VueJS | TypeScript | styled-components.</li>
+  <li>🌱 I’m currently learning NodeJS.</li>
   <li>🌟 Open for a new job.</li>
 </ul>
 
