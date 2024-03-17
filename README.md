@@ -11,7 +11,9 @@
 
 <p><strong style="font-size: larger">🌐 View My Websites</strong></p>
 <p><a href="https://monica-clearning-services.onrender.com" target="_blank">Monica Cleaning Service</a> - A business website built with the **MERN** stack (MongoDB, Express, React, Node.js).</p>
+
 <p>This website utilizes **Redux RTK Query** for efficient state management, enabling seamless data fetching and caching. Additionally, **JWT** authentication mechanisms are employed to ensure secure and stateless user authentication.</p>
+
 
 To log in with different roles:
 
