@@ -4,7 +4,7 @@
 <hr>
 
 <ul>
-  <li>🛠 Tools & Methodologies: ReactJS | VueJS | TypeScript | Javascript | Node.js | SQL | PowerBI.</li>
+  <li>🛠 Tools & Methodologies: ReactJS | VueJS | TypeScript | Javascript | Node.js | SQL.</li>
   <li>🌱 I’m currently learning AWS.</li>
   <li>🌟 Open for a new job.</li>
 </ul>
